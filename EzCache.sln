@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzCache", "EzCache\EzCache.csproj", "{22839F4C-7549-4E7E-B97A-EF5F553C24C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{39152A06-E5F5-492A-A39E-BAF054F6660B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22839F4C-7549-4E7E-B97A-EF5F553C24C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22839F4C-7549-4E7E-B97A-EF5F553C24C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22839F4C-7549-4E7E-B97A-EF5F553C24C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22839F4C-7549-4E7E-B97A-EF5F553C24C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39152A06-E5F5-492A-A39E-BAF054F6660B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39152A06-E5F5-492A-A39E-BAF054F6660B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39152A06-E5F5-492A-A39E-BAF054F6660B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39152A06-E5F5-492A-A39E-BAF054F6660B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46793CFD-2FA7-484E-A112-B8316C7209CA}
+	EndGlobalSection
+EndGlobal
